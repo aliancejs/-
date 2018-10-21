@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100vw;
+    display: flex;
+    margin: 15px;
+}
+
+.section {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.section1 {
+    height: 50px;
+    width: 50;
+    background-color: rgb(255, 217, 0);
+    border: 2px solid black;
+    padding: 10px;
+    margin: 2px;
+}   
